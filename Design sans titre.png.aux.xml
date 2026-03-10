@@ -1,0 +1,77 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="XML_com.adobe.xmp">&lt;?xpacket begin='&#xFEFF;' id='W5M0MpCehiHzreSzNTczkc9d'?&gt;
+&lt;x:xmpmeta xmlns:x='adobe:ns:meta/'&gt;
+&lt;rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'&gt;
+
+ &lt;rdf:Description rdf:about=''
+  xmlns:Attrib='http://ns.attribution.com/ads/1.0/'&gt;
+  &lt;Attrib:Ads&gt;
+   &lt;rdf:Seq&gt;
+    &lt;rdf:li rdf:parseType='Resource'&gt;
+     &lt;Attrib:Created&gt;2026-03-10&lt;/Attrib:Created&gt;
+     &lt;Attrib:Data&gt;{&amp;quot;doc&amp;quot;:&amp;quot;DAHDiHvQKdc&amp;quot;,&amp;quot;user&amp;quot;:&amp;quot;UAGB72rC9Ug&amp;quot;,&amp;quot;brand&amp;quot;:&amp;quot;Équipe de Sarah Sosinski&amp;quot;}&lt;/Attrib:Data&gt;
+     &lt;Attrib:ExtId&gt;76e3f31c-3840-4612-a314-324abaaa6882&lt;/Attrib:ExtId&gt;
+     &lt;Attrib:FbId&gt;525265914179580&lt;/Attrib:FbId&gt;
+     &lt;Attrib:TouchType&gt;2&lt;/Attrib:TouchType&gt;
+    &lt;/rdf:li&gt;
+   &lt;/rdf:Seq&gt;
+  &lt;/Attrib:Ads&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'&gt;
+  &lt;dc:title&gt;
+   &lt;rdf:Alt&gt;
+    &lt;rdf:li xml:lang='x-default'&gt;Design sans titre - 1&lt;/rdf:li&gt;
+   &lt;/rdf:Alt&gt;
+  &lt;/dc:title&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description rdf:about=''
+  xmlns:pdf='http://ns.adobe.com/pdf/1.3/'&gt;
+  &lt;pdf:Author&gt;Sarah Sosinski&lt;/pdf:Author&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description rdf:about=''
+  xmlns:xmp='http://ns.adobe.com/xap/1.0/'&gt;
+  &lt;xmp:CreatorTool&gt;Canva (Renderer) doc=DAHDiHvQKdc user=UAGB72rC9Ug brand=Équipe de Sarah Sosinski&lt;/xmp:CreatorTool&gt;
+ &lt;/rdf:Description&gt;
+&lt;/rdf:RDF&gt;
+&lt;/x:xmpmeta&gt;
+&lt;?xpacket end='r'?&gt;</MDI>
+  </Metadata>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">171.38043811275</MDI>
+      <MDI key="STATISTICS_STDDEV">83.621683308912</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">148.44180453431</MDI>
+      <MDI key="STATISTICS_STDDEV">73.519225063748</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">116.29924938725</MDI>
+      <MDI key="STATISTICS_STDDEV">86.498809137928</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
